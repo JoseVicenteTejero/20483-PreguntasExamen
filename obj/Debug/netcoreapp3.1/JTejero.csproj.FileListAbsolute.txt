@@ -1,0 +1,13 @@
+C:\20483\EXAM\P\bin\Debug\netcoreapp3.1\JTejero.exe
+C:\20483\EXAM\P\bin\Debug\netcoreapp3.1\JTejero.deps.json
+C:\20483\EXAM\P\bin\Debug\netcoreapp3.1\JTejero.runtimeconfig.json
+C:\20483\EXAM\P\bin\Debug\netcoreapp3.1\JTejero.runtimeconfig.dev.json
+C:\20483\EXAM\P\bin\Debug\netcoreapp3.1\JTejero.dll
+C:\20483\EXAM\P\bin\Debug\netcoreapp3.1\JTejero.pdb
+C:\20483\EXAM\P\obj\Debug\netcoreapp3.1\JTejero.csprojAssemblyReference.cache
+C:\20483\EXAM\P\obj\Debug\netcoreapp3.1\JTejero.AssemblyInfoInputs.cache
+C:\20483\EXAM\P\obj\Debug\netcoreapp3.1\JTejero.AssemblyInfo.cs
+C:\20483\EXAM\P\obj\Debug\netcoreapp3.1\JTejero.csproj.CoreCompileInputs.cache
+C:\20483\EXAM\P\obj\Debug\netcoreapp3.1\JTejero.dll
+C:\20483\EXAM\P\obj\Debug\netcoreapp3.1\JTejero.pdb
+C:\20483\EXAM\P\obj\Debug\netcoreapp3.1\JTejero.genruntimeconfig.cache

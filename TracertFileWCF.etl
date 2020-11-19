@@ -1,0 +1,5 @@
+Contoso,  Transfer: 1 : Original Activity, relatedActivityId=00000000-0000-0000-0000-000000000000
+Contoso,  Transfer: 1 : Changing Activity, relatedActivityId=78aecac0-01e1-46c2-adde-08e6dda578ec
+Contoso,  Start: 0 : Start
+Contoso,  Transfer: 1 : Changing Activity, relatedActivityId=00000000-0000-0000-0000-000000000000
+Contoso,  Stop: 0 : Stop
